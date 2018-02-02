@@ -1,0 +1,2 @@
+# tesseract
+tesseract资源
